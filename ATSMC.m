@@ -1,3 +1,6 @@
+AAA=520
+
+
 function [dx]= ATSMC(t,x)
 
 t
